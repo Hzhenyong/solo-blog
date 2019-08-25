@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://blog.hzy2013.cn:8088/solo/hello-solo)
+* [世界，你好！](http://blog.hzy2013.cn/solo/hello-solo)
 
 
 
