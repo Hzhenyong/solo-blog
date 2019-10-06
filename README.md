@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.hzy2013.cn/solo/my-github-repos)
 * [世界，你好！](http://blog.hzy2013.cn/solo/hello-solo)
 
 
